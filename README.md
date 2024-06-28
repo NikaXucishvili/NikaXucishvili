@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikaxucishvili&label=Profile%20views&color=0e75b6&style=flat" alt="nikaxucishvili" /> </p>
 
-- 🔭 I’m currently working on **Everest app**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikaXucishvili](https://github.com/NikaXucishvili)
 
